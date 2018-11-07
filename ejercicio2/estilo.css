@@ -4,13 +4,11 @@ html, body { margin: 0px; }
 	width: 200px;
 	height: 200px;
 }
-
 .square1{
 	background-color: rgba(255, 0, 0, .5);
 	position: absolute;
 	z-index: 3;
 }
-
 .square2{
 	background-color: rgba(0, 255, 0, .5);
 	left: 25px;
@@ -18,7 +16,6 @@ html, body { margin: 0px; }
 	top: 25px;
 	z-index: 2;
 }
-
 .square3{
 	background-color: rgba(0, 0, 255, .5);
 	left: 50px;
